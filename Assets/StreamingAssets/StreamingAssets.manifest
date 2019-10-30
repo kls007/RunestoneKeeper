@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3688082689
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/gameobject.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: sprite/country.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: prefab/panel.unity3d
+      Dependencies:
+        Dependency_0: sprite/country.unity3d

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 39452153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68c3e9726376ac9924bb2a5d5999507d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shuai/Images/country/ui_image_team21.png
+- Assets/Shuai/Images/country/ui_image_team22.png
+- Assets/Shuai/Images/country/ui_image_team28.png
+- Assets/Shuai/Images/country/ui_image_team25.png
+- Assets/Shuai/Images/country/ui_image_team29.png
+- Assets/Shuai/Images/country/ui_image_team20.png
+- Assets/Shuai/Images/country/ui_image_team26.png
+- Assets/Shuai/Images/country/ui_image_team16.png
+- Assets/Shuai/Images/country/ui_image_team6.png
+- Assets/Shuai/Images/country/ui_image_team2.png
+- Assets/Shuai/Images/country/ui_image_team24.png
+- Assets/Shuai/Images/country/ui_image_team19.png
+- Assets/Shuai/Images/country/ui_image_team17.png
+- Assets/Shuai/Images/country/ui_image_team10.png
+- Assets/Shuai/Images/country/ui_image_team9.png
+- Assets/Shuai/Images/country/ui_image_team11.png
+- Assets/Shuai/Images/country/ui_image_team30.png
+- Assets/Shuai/Images/country/ui_image_team7.png
+- Assets/Shuai/Images/country/ui_image_team13.png
+- Assets/Shuai/Images/country/ui_image_team5.png
+- Assets/Shuai/Images/country/ui_image_team12.png
+- Assets/Shuai/Images/country/ui_image_team1.png
+- Assets/Shuai/Images/country/ui_image_team32.png
+- Assets/Shuai/Images/country/ui_image_team8.png
+- Assets/Shuai/Images/country/ui_image_team14.png
+- Assets/Shuai/Images/country/ui_image_team4.png
+- Assets/Shuai/Images/country/ui_image_team23.png
+- Assets/Shuai/Images/country/ui_image_team3.png
+- Assets/Shuai/Images/country/ui_image_team18.png
+- Assets/Shuai/Images/country/ui_image_team15.png
+- Assets/Shuai/Images/country/ui_image_team31.png
+- Assets/Shuai/Images/country/ui_image_team27.png
+Dependencies: []

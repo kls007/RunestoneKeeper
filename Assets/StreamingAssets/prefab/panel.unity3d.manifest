@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3834803059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa86595da6a11ea7ccda32b5e82b1bef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84b248a2daa4ae4b514e2b80f82f6f44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shuai/Prefabs/Panels/LoadingPanel.prefab
+- Assets/Shuai/Prefabs/Panels/StartPanel.prefab
+- Assets/Shuai/Prefabs/Panels/GameRecordPanel.prefab
+- Assets/Shuai/Prefabs/Panels/GamePanel.prefab
+- Assets/Shuai/Prefabs/Panels/LanguagePanel.prefab
+- Assets/Shuai/Prefabs/Panels/AlertPanel.prefab
+Dependencies:
+- D:/IDE/WorkSpace/WorkSpace_Unity/WorkSpace_Unity2018.4.8f1/Test2018_2D/Assets/StreamingAssets/sprite/country.unity3d
